@@ -1,0 +1,62 @@
+# === Rust backend ===
+/target/
+/Cargo.lock
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# === Electron frontend ===
+node_modules/
+dist/
+build/
+out/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === IDEs & Editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === OS cache ===
+__pycache__/
+*.tmp
+*.bak
+*.old
+
+# === Electron Builder artifacts ===
+/dist/
+*.dmg
+*.zip
+*.pkg
+*.AppImage
+*.asar
+*.icns
+
+# === Env files ===
+.env
+.env.local
+.env.*.local
+
+# === Misc ===
+*.iml
+*.log
+*.lock

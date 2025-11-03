@@ -1,0 +1,14 @@
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/deps/serde-d943b108278af587.d: /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/build/serde-d59d8401a32e1c45/out/private.rs
+
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/deps/libserde-d943b108278af587.rlib: /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/build/serde-d59d8401a32e1c45/out/private.rs
+
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/deps/libserde-d943b108278af587.rmeta: /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/build/serde-d59d8401a32e1c45/out/private.rs
+
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/build/serde-d59d8401a32e1c45/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/build/serde-d59d8401a32e1c45/out

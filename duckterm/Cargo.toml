@@ -1,0 +1,25 @@
+[package]
+name = "duckterm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+crossterm = "0.27"
+ratatui = "0.28"
+portable-pty = "0.8"
+ssh2 = "0.9"
+
+# версию eframe/egui ставим такую же, какую у тебя уже тянет cargo (0.28.1)
+eframe = "0.28.1"
+egui = "0.28.1"
+
+# tokio можно убрать, если его не используешь
+# tokio = { version = "1", features = ["full"] }
+
+[package.metadata.bundle]
+# это уже для `cargo bundle`
+name = "DuckTerm"
+identifier = "com.duckofapocalypse.duckterm"
+icon = "icons/duck.icns"
+version = "0.1.0"

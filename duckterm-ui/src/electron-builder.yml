@@ -1,0 +1,12 @@
+appId: com.duckofapocalypse.breakloop
+productName: duckofapocalypse
+files:
+  - "src/**/*"
+  - "package.json"
+  - "node_modules/**/*"
+mac:
+  category: public.app-category.developer-tools
+  icon: assets/icon.png
+  target:
+    - dmg
+    - dir

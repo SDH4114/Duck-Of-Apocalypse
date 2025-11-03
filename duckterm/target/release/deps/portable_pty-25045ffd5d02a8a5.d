@@ -1,0 +1,10 @@
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/deps/portable_pty-25045ffd5d02a8a5.d: /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/lib.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/cmdbuilder.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/unix.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/serial.rs
+
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/deps/libportable_pty-25045ffd5d02a8a5.rlib: /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/lib.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/cmdbuilder.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/unix.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/serial.rs
+
+/Users/aminmammadov/Giti/Duck-Of-Apocalypse/duckterm/target/release/deps/libportable_pty-25045ffd5d02a8a5.rmeta: /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/lib.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/cmdbuilder.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/unix.rs /Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/serial.rs
+
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/lib.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/cmdbuilder.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/unix.rs:
+/Users/aminmammadov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/portable-pty-0.8.1/src/serial.rs:

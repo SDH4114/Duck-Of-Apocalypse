@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #0e0e0e;
+  color: #00ff88;
+  font-family: monospace;
+  overflow: hidden;
+}
+
+#terminal {
+  width: 100vw;
+  height: 100vh;
+}
